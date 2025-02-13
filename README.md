@@ -11,22 +11,22 @@
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,cs,unity,selenium,spring,gherkin,postgres,mysql,dotnet)](https://skillicons.dev)
 
-Here you'll find some of my projects focused in the following technologies and architectures:
+(en) Here you'll find some of my projects focused in the following technologies and architectures:<br>
+(pt) Aqui você encontrará alguns de meus projetos focados nas seguintes tecnologias e arquiteturas:
 > Java <br>
-> Cucumber <br>
-> Selenium <br>
 > Spring Framework (Spring Boot, Spring JPA) <br>
-> Relational Databases (MySQL, PostgreSQL, H2 Database) <br>
-> Automated Tests (Selenium, JUnit) <br>
+> Automated Tests (Selenium, Cucumber, Gherkin, JUnit) <br>
+> C# <br>
 
-And also about the following Design Patterns:
+(en) And also about the following Design Patterns:<br>
+(pt) E também sobre os seguintes padrões de design:
 > Singleton <br>
 > Page-Object <br>
 
 # 🧑🏾‍💻 What am I studying?:
-[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,dotnet)](https://skillicons.dev)
 > Game Development <br>
-> Object-oriented programming
+> Object-Oriented Programming in C# (OOP)
 
 # Tools:
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,discord,postman,github,git)](https://skillicons.dev)
